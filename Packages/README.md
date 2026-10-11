@@ -8,5 +8,5 @@ Download a zip file and extract it to the root of an exFAT or FAT32 formatted US
 
 | Name | Description |
 | ---- | ----------- |
-| Enable ADB | Removes hide flag which hides ADB options in Engineering Mode, after this package is installed, goto Engineering Mode > Module Info, Page 3 > Tap a few times on the left bottom corner of the screen, ADB menu will show up in the menu selector column. |
+| Enable ADB | Removes hide flag which hides ADB options in Engineering Mode, after this package is installed, goto Engineering Mode > Module Info, Page 3 > Tap a few times on the left (or right) bottom corner of the screen, ADB menu will show up in the menu selector column. |
 | Enable Wireless Features | Enables WiFi control and Wireless Phone Projection, note that Apple CarPlay is currently not verified to work properly. |
