@@ -13,7 +13,7 @@ You may pledge a small amount to help cover research costs for Gen5W systems as 
 
 ## **Documentation**
 
-Read about NEMESIS, what it is exploiting, what it features, and its' use manual.
+Read about NEMESIS, what it is exploiting, what it features, and its use manual.
 
 | Document | Contents |
 |----------|----------|
